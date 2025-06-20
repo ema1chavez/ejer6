@@ -13,7 +13,7 @@ namespace ejer6
             int n1;
             Console.WriteLine("Introduce un número entero: ");
             n1=Convert.ToInt32(Console.ReadLine());
-            if (n1>0);
+            if (n1>0)
             {
                 Console.WriteLine("El número es positivo");
             }
